@@ -24,7 +24,7 @@ def get_embedding(query):
 
 
 def find_similar_documents(embedding):
-    url = "mongodb+srv://han:han@clusteropp.bofm7.mongodb.net/?retryWrites=true&w=majority"  # Replace with your MongoDB url.
+    url = "mongodb+srv://xxx:xxx@clusteropp.bofm7.mongodb.net/?retryWrites=true&w=majority"  # Replace with your MongoDB url.
 
     try:
         client = pymongo.MongoClient(url)
