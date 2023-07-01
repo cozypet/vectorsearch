@@ -15,7 +15,9 @@ This repository contains code files for generating plot embeddings using OpenAI 
 Before running the code in this repository, make sure you have the following prerequisites:
 
 OpenAI API Key - Obtain your OpenAI API key from the OpenAI website. This key will be used to generate plot embeddings.
+
 MongoDB Atlas Cluster - Set up a MongoDB Atlas cluster where the sample_mflix database and movies collection exist. Replace the placeholders in the code with your actual database and collection names.
+
 Values in App Services - In your MongoDB Atlas project, set up a value named "openAI_value" and store your OpenAI API key as the value. This value will be used by the JavaScript function to authenticate with the OpenAI API.
 
 ## Instructions
