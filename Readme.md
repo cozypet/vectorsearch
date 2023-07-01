@@ -2,7 +2,7 @@
 
 This repository contains code files for generating plot embeddings using OpenAI API, setting up an Atlas Search index, and querying the index using a Python script.
 
-![Vector search architecture](Screenshot 2023-06-30 at 10.40.46.png)
+![Vector search architecture](./Screenshot 2023-06-30 at 10.40.46.png)
 
 ## Files
 
