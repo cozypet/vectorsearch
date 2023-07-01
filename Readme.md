@@ -2,7 +2,9 @@
 
 This repository contains code files for generating plot embeddings using OpenAI API, setting up an Atlas Search index, and querying the index using a Python script.
 
-![Vector search architecture](Screenshot 2023-06-30 at 10.40.46.png)
+https://github.com/cozypet/vectorsearch/blob/1b459fed9f821db787f2da93b667c16535edefb5/Screenshot%202023-06-30%20at%2010.40.46.png
+
+![Vector search architecture]([Screenshot 2023-06-30 at 10.40.46.png](https://github.com/cozypet/vectorsearch/blob/1b459fed9f821db787f2da93b667c16535edefb5/Screenshot%202023-06-30%20at%2010.40.46.png))
 
 ## Files
 
