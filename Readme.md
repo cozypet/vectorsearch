@@ -4,10 +4,8 @@ This repository contains code files for generating plot embeddings using OpenAI 
 
 
 
-![Vector search architecture]([Screenshot 2023-06-30 at 10.40.46.png](https://github.com/cozypet/vectorsearch/blob/1b459fed9f821db787f2da93b667c16535edefb5/Screenshot%202023-06-30%20at%2010.40.46.png))
+[Vector search architecture]([Screenshot 2023-06-30 at 10.40.46.png](https://github.com/cozypet/vectorsearch/blob/1b459fed9f821db787f2da93b667c16535edefb5/Screenshot%202023-06-30%20at%2010.40.46.png))
 
-[![OpenAI Logo](images/openai_logo.png)]([https://www.example.com/openai_logo](https://github.com/cozypet/vectorsearch/blob/1b459fed9f821db787f2da93b667c16535edefb5/Screenshot%202023-06-30%20at%2010.40.46.png))
-## Files
 
 1. triggerfunction.js - JavaScript function that generates plot embeddings using OpenAI API and updates documents in a MongoDB collection with the embeddings.
 2. vectorIndex.json - JSON definition for setting up an Atlas Search index with the necessary configuration for the plot_embedding field.
