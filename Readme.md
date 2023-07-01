@@ -2,6 +2,8 @@
 
 This repository contains code files for generating plot embeddings using OpenAI API, setting up an Atlas Search index, and querying the index using a Python script.
 
+![Vector search architecture](screen.png)
+
 ## Files
 
 1. triggerfunction.js - JavaScript function that generates plot embeddings using OpenAI API and updates documents in a MongoDB collection with the embeddings.
